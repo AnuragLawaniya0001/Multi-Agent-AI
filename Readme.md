@@ -39,9 +39,7 @@ This project demonstrates a scalable and extensible approach to multi-agent AI a
          +------------------+
             /         \
            /           \
-  +------------+       +-------------+
   | JSON Agent |       | Email Agent |
-  +------------+       +-------------+
   
                   \ /
                   \ /
