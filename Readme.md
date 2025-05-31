@@ -1,4 +1,4 @@
-# 🤖 Multi-Agent AI System
+#  Multi-Agent AI System
 
 A modular AI system designed for intelligent content routing and transformation using LLM-based agents. The system classifies inputs and processes them via specialized downstream agents including JSON Agent and Email Agent.
 
