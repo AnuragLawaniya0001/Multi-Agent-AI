@@ -1,0 +1,61 @@
+INFORMATION SECURITY SYSTEM
+(By Prof. Himanshu Gautam)
+Objectives:
+• Explain the objectives of information security
+• Explain the importance and application of each of confidentiality, integrity, authentication
+and availability
+• Understand various cryptographic algorithms.
+• Understand the basic categories of threats to computers and networks Describe
+public-key cryptosystem.
+• Describe the enhancements made to IPv4 by IPSec
+• Understand Intrusions and intrusion detection
+• Discuss the fundamental ideas of public-key cryptography.
+• Generate and distribute a PGP key pair and use the PGP package to send an encrypted e-
+mail message.
+• Discuss Web security and Firewalls
+UNIT — I
+Attacks on Computers and Computer Security: Introduction, The need for security, Security
+approaches, Principles of security, Types of Security attacks, Security services, Security
+Mechanisms, A model for Network Security
+Cryptography: Concepts and Techniques: Introduction, plain text and cipher text, substitution
+techniques, transposition techniques, encryption and decryption, symmetric and asymmetric key
+cryptography, steganography, key range and key size, possible types of attacks.
+UNIT — II
+Symmetric key Ciphers: Block Cipher principles & Algorithms(DES, AES, Blowfish),
+Differential and Linear Cryptanalysis, Block cipher modes of operation, Stream ciphers,
+RC4,Location and placement of encryption function, Key distribution Asymmetric key Ciphers:
+Principles of public key cryptosystems, Algorithms(RSA, Diffie-Hellman, ECC), Key
+Distribution.
+UNIT — III
+Message Authentication Algorithms and Hash Functions: Authentication requirements,
+Functions, Message authentication codes, Hash Functions, Secure hash algorithm, Whirlpool,
+HMAC, CMAC,
+Digital signatures, knapsack algorithm Authentication Applications: Kerberos, X.509
+Authentication Service, Public — Key Infrastructure, Biometric Authentication
+UNIT — IV
+E-Mail Security: Pretty Good Privacy, S/MIME IP Security: IP Security overview, IP Security
+architecture, Authentication Header, Encapsulating security payload, Combining security
+associations, key man2
+UNIT — V
+Web Security: Web security considerations, Secure Socket Layer and Transport Layer Security,
+Secure electronic transaction Intruders, Virus and Firewalls: Intruders, Intrusion detection,
+password management, Virus and related threats, Countermeasures, Firewall design principles,
+Types of firewalls Case Studies on Cryptography and security: Secure Inter-branch Payment
+Transactions, Cross site Scripting Vulnerability, Virtual Elections
+TEXT BOOKS:
+1. Cryptography and Network Security : William Stallings, Pearson Education,411i Edition
+2. Cryptography and Network Security : Atul Kahate, Mc Graw Hill, 2" Edition
+REFERENCE BOOKS:
+1. Cryptography and Network Security: C K Shyamala, N Harini, Dr T R Padmanabhan, Wiley
+India, lst Edition.
+2. Cryptography and Network Security : Forouzan Mukhopadhyay, Mc Graw Hill, 2"d Edition
+3. Information Security, Principles and Practice: Mark Stamp, Wiley India.
+4. Principles of Computer Sceurity: WM.Arthur Conklin, Greg White, TMH
+5. Introduction to Network Security: Neal Krawetz, CENGAGE Learning
+6. Network Security and Cryptography: Bernard Menezes, CENGAGE Learning
+Outcomes:
+• Student will be able to understand basic cryptographic algorithms, message and web
+authentication and security issues.
+• Ability to identify information system requirements for both of them such as client and
+server.
+• Ability to understand the current legal issues towards information security.
